@@ -25,7 +25,7 @@
 - 💻 I build real-world projects
 - ⚡ Passionate about coding & UI design
 - 💬 Ask me about **HTML, CSS, JS, Python**
-- 📫 Email: **yourmail@gmail.com**
+- 📫 Email: **ajayofficial194@gmail.com**
 
 ---
 
